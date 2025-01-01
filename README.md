@@ -22,7 +22,8 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features: 
+Here's a walkthrough of implemented features:  <br/>
+
 ![GIF Demo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHU2dDBuMGdybnQzcWt3eDByZ3M0YmQ1Z3gxNWZuNzBhNXN5cGx0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mv3MSt686CIebgSzOX/giphy.gif)
 
 
