@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features: 
-[Watch the demo video here](https://drive.google.com/file/d/1Boqbro5g2de_lEWUWk9LdodwSsCkBx2i/preview)
+![GIF Demo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHU2dDBuMGdybnQzcWt3eDByZ3M0YmQ1Z3gxNWZuNzBhNXN5cGx0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mv3MSt686CIebgSzOX/giphy.gif)
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -36,6 +37,7 @@ GIF created with Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 
 ## License
 
