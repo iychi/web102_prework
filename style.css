@@ -17,11 +17,29 @@ body {
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
+    justify-content: space-between;
+}
+
+.logo-and-title {
+    display: flex;
+    align-items: center;
+}
+
+#search-bar {
+    padding: 8px; 
+    flex-grow: 0;
 }
 
 .stats-container {
     display: flex;
+    align-items: center;
 }
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+
 
 .stats-card {
     background-color: #a8b0bc;
@@ -66,6 +84,16 @@ body {
     text-align: center;
 }
 
+#button-container button {
+    cursor: pointer;
+
+}
+
+#button-container button:hover {
+    background-color: #e2e2e2; 
+    color: #333; 
+}
+
 button {
     font-family: 'Cabin';
     border: none;
@@ -73,3 +101,4 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
