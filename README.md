@@ -22,11 +22,8 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
-![prework demo](https://drive.google.com/file/d/1Boqbro5g2de_lEWUWk9LdodwSsCkBx2i/preview)
-
-<iframe src="https://drive.google.com/file/d/1Boqbro5g2de_lEWUWk9LdodwSsCkBx2i/preview" width="640" height="480" allow="autoplay"></iframe>
-
+Here's a walkthrough of implemented features: 
+[Watch the demo video here](https://drive.google.com/file/d/1Boqbro5g2de_lEWUWk9LdodwSsCkBx2i/preview)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
