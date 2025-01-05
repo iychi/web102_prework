@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:  <br/>
 
-![GIF Demo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHU2dDBuMGdybnQzcWt3eDByZ3M0YmQ1Z3gxNWZuNzBhNXN5cGx0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mv3MSt686CIebgSzOX/giphy.gif)
+![GIF Demo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3dnOXM4b2Nqa3BxemVtNDFkYzYzMTFyMjMydzNmbGJpa205bHZ3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nL30R7dSeqZD6qHmxi/giphy-downsized-large.gif)
 
 
 
